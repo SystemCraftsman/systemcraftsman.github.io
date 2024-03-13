@@ -1,0 +1,3 @@
+[submodule "scrapy-demo"]
+	path = scrapy-demo
+	url = https://github.com/SystemCraftsman/scrapy-demo
